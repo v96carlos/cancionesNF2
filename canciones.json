@@ -1,0 +1,19 @@
+{
+  "canciones": [
+    {
+      "id": "1",
+      "titulo": "cancion1",
+      "url": "https://github.com/v96carlos/cancionesNF2/raw/refs/heads/main/cancion1.mp3"
+    },
+    {
+      "id": "2",
+      "titulo": "cancion2",
+      "url": "https://github.com/v96carlos/cancionesNF2/raw/refs/heads/main/cancion2.mp3"
+    },
+    {
+      "id": "3",
+      "titulo": "cancion3",
+      "url": "https://github.com/v96carlos/cancionesNF2/raw/refs/heads/main/cancion3.mp3"
+    }
+  ]
+}
